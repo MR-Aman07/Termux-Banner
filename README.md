@@ -1,2 +1,2 @@
-# Termux-Banner
-Auto-Install: Automatically installs required packages if missing
+# Termux-Banner 
+Create Name to Banner In Termux 
